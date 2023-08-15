@@ -27,13 +27,13 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Screenshot
 
-	![](./screenshot.jpg)
-
+	![Desktop solution](solution/desktop_image.png)
+        ![Mobile solution](solution/mobile_image.png)
 
 ### Links
 
-	- Solution URL: [Add solution URL here](https://your-solution-url.com)
-	- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+	- Solution URL: (https://github.com/Homorkhay/3-column-preview-card-component-challenge)
+	- Live Site URL: (https://homorkhay.github.io/3-column-preview-card-component-challenge/)
 
 ## My process
 
@@ -45,21 +45,20 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### What I learned
 
-	I learned about how to use the shorthand broperty of border-radius.
+	I learned about how to use the shorthand property of border-radius.
 
 ### Continued development
 
-I want to further develop my css skills learning grid, z-index, overflow & resize property and lastly list & calc function
+I want to further develop my CSS skills by learning grid, z-index, overflow & resize properties and lastly list & calc function
 
 ### Useful resources
 
 - [LearnVern](https://www.learnvern.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [W3SCHOOL](https://www.w3schools.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3SCHOOL](https://www.w3schools.com) - This is an amazing article that helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Homorkhay](https://www.frontendmentor.io/profile/Homorkhay)
+- Twitter - [@homorkhay](https://www.twitter.com/homorkhay)
